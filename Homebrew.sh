@@ -1,5 +1,7 @@
 #HomeBrew自动安装脚本
 #电报频道http://t.me/macosrj
+#直接在终端运行以下命令（需要科学上网）
+#   /bin/zsh -c "$(curl -fsSL https://raw.githubusercontent.com/zwf234/Mac/main/Homebrew.sh)"
 #路径表.
 HOMEBREW_PREFIX="/usr/local"
 HOMEBREW_REPOSITORY="${HOMEBREW_PREFIX}/Homebrew"
